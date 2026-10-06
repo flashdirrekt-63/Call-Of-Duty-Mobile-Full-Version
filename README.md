@@ -284,4 +284,4 @@ This repository serves as the official landing page for Call of Duty: Mobile. Th
 **Get the most recent version of Call of Duty: Mobile today!**
 
 ---
-**Last updated:** 2026-10-06 09:35:45 UTC
+**Last updated:** 2026-10-06 16:23:11 UTC
